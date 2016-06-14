@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNet.Mvc;
 
+
+
 namespace test_azure_deploy_dotnet_core.Controllers
 {
     [Route("api/[controller]")]
